@@ -2,7 +2,7 @@
   "name": "card_filter",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Slavvvvvva.github.io/card_filter",
+  "homepage": "https://slavvvvvva.github.io/card_filter/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
